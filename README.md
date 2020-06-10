@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 
-\# Clone repository
+\# Clone repository 
+
+```
+git clone https://github.com/irynahotsiy/Chat_Sample.git
+```
 
 \# Install dependencies
 
